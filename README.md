@@ -1,4 +1,4 @@
-### **README: TOPSIS Decision-Making Dashboard**
+### **TOPSIS Decision-Making Dashboard**
 ---
 
 ### **Overview**
